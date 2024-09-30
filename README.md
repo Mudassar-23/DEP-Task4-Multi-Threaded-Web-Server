@@ -21,5 +21,5 @@ How It Works
 Close Connections: Once the response is sent, the server closes the client socket.
 
 File Structure
-server.cpp: The main server code which is task4.cpp
+server.cpp: The main server code which is task4.cpp,
 index.html: The default HTML file served by the server.
